@@ -28,7 +28,7 @@ The process_sales_data function will read the sales data file and add all the sa
 
 ## def print_report(id_list, sales_data):
 
-where id_list and sales_data are the two Python lists created by the getIDs function and modified by the process_sales_data function.
+Where id_list and sales_data are the two Python lists created by the getIDs function and modified by the process_sales_data function.
 
 This function will produce the printed Annual Sales Report from the data supplied in the id_list and sales_data lists. It will also calculate the totals by quarter and determine the maximum sales by a sales person in a quarter and maximum sales by quarter for the Annual Sales Report.
 
