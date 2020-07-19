@@ -23,7 +23,7 @@ The getIDs function will read the salesperson's IDs file and create two Python l
 
 ## def process_sales_data(filename, id_list, sales_data):
 
-where filename will contain the name of the file containing the sales data, and id_list and sales_data are the two Python lists created by the getIDs function.
+Where filename will contain the name of the file containing the sales data, and id_list and sales_data are the two Python lists created by the getIDs function.
 The process_sales_data function will read the sales data file and add all the sales data to the sales_data list totaling all the monthly data into the totals for the proper quarter by sales ID. This function will not return any variables but the sales_data list will have been modified with the sales data.
 
 ## def print_report(id_list, sales_data):
